@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muleyparimal33/convolution_thread/convolution_multi.cpp
+iostream
+-
+vector
+-
+pthread.h
+-
+thread
+-
+
