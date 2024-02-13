@@ -8,7 +8,7 @@ This repository provides implementations of the convolution operation in Python 
 
 ## Documentation
 
-The documentation contains a step by step process of the implementation.
+The documentation contains a step by step process of the implementation. follow the documentation for a step by step implementation.
 
 [Documentation](https://drive.google.com/file/d/1eDq5N6BxIfc9lv5THws-O-gVtRZVeEZf/view?usp=sharing)
 
